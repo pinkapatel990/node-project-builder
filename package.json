@@ -1,0 +1,25 @@
+{
+  "name": "node-project-builder",
+  "version": "1.0.0",
+  "description": "node mvc project structure",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkapatel990/Node-project-builder.git"
+  },
+  "author": "Pinka Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinkapatel990/Node-project-builder/issues"
+  },
+  "homepage": "https://github.com/pinkapatel990/Node-project-builder#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "express": "^4.19.2"
+  }
+}
